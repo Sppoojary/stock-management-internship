@@ -1,2 +1,3 @@
 # stock-management-internship
-it contains login page ,basic signup page without css and also backend code
+The project includes a login page, a basic signup page without CSS, and backend code.
+Note: Dashboard functionality is not implemented.
